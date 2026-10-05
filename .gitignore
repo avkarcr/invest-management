@@ -218,3 +218,16 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local investment data and backups
+data/
+__pycache__/
+*.pyc
+.venv/
+*.sqlite3
+*.sql
+portfolio.json
+assets.csv
+*.sqlite3-*
+*.db
+*.db-*
